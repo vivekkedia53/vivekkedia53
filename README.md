@@ -13,7 +13,7 @@
  
 - 🌱 I’m currently learning **Javascript along with React JS. along with Machine Learning with Python**
  
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/vivek-kedia-82469238)
+- 👨‍💻 All of my projects are available at [Vivek Kedia](https://www.linkedin.com/in/vivek-kedia-82469238)
  
 - 📫 How to reach me **vivekkedia53@gmail.com**
  
