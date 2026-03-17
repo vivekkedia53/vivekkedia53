@@ -1,7 +1,7 @@
 ![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
 
 <h1 align="center">Hi 👋, I'm Vivek Kedia</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h3 align="center">Passionate Developer | Python |</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -10,7 +10,7 @@
 </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
+- 🌱 I’m currently learning **AWS & DevOps**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vivekkedia53)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vivek-kedia-82469238)
 - 📫 How to reach me: **vivekkedia53@gmail.com**
